@@ -1,0 +1,176 @@
+{
+  "subjects": [
+    {
+      "id": 1,
+      "subjectname": "German",
+      "employees": [
+        {
+          "first_name": "Tommy",
+          "last_name": "Lohn",
+          "email": "tommylohn2001@gmail.com",
+          "id": 1,
+          "subjectname": "German"
+        },
+        {
+          "first_name": "Tommy",
+          "last_name": "Lohn",
+          "email": "tommylohn2001@gmail.com",
+          "id": 2,
+          "subjectname": "German"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "subjectname": "French",
+      "employees": [
+        {
+          "first_name": "Tommy",
+          "last_name": "Lohn",
+          "email": "tommylohn2001@gmail.com",
+          "id": 3,
+          "subjectname": "French"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "subjectname": "English",
+      "employees": [
+        
+      ]
+    }
+  ],
+  "Group": [
+    {
+      "id": 1,
+      "groupname": "H2A",
+      "students": [
+        {
+          "id": 1,
+          "studentfirstname": "harry",
+          "studentlastname": "volkers"
+        },
+        {
+          "id": 2,
+          "studentfirstname": "gnarry",
+          "studentlastname": "vrolkers"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "groupname": "H2B",
+      "students": [
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 1
+        },
+        {
+          "studentfirstname": "Tommy",
+          "studentlastname": "Lohn",
+          "id": 2
+        },
+        {
+          "studentfirstname": "Tommy",
+          "studentlastname": "Lohn",
+          "id": 3
+        },
+        {
+          "studentfirstname": "Max",
+          "studentlastname": "Janthur",
+          "id": 4
+        },
+        {
+          "studentfirstname": "Max",
+          "studentlastname": "Janthur",
+          "id": 5
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "groupname": "H2C",
+      "students": [
+        {
+          "studentfirstname": "Tommy",
+          "studentlastname": "Lohn",
+          "id": 1
+        },
+        {
+          "studentfirstname": "Emardo ",
+          "studentlastname": "Tjoktjok",
+          "id": 2
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "groupname": "H2D",
+      "students": [
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 1
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 2
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 3
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "groupname": "A2A",
+      "students": [
+        {
+          "studentfirstname": "Tommy",
+          "studentlastname": "Lohn",
+          "id": 1
+        },
+        {
+          "studentfirstname": "Noah ",
+          "studentlastname": "Wallet",
+          "id": 2
+        },
+        {
+          "studentfirstname": "Tommy",
+          "studentlastname": "Lohn",
+          "id": 3
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 4
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 5
+        },
+        {
+          "studentfirstname": "Nuria ",
+          "studentlastname": "Nouel",
+          "id": 6
+        },
+        {
+          "studentfirstname": "Emardo ",
+          "studentlastname": "Tjoktjok",
+          "id": 7
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+  padding: 0;
+  margin: 0;
+}
+
+.app {
+  width: 80%;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  background-color: black;
+  margin-bottom: 20px;
+}
+
+nav ul li {
+  padding: 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+.current {
+  border-bottom: 4px solid white;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+p {
+  margin-bottom: 15px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 20px;
+  background-color: #2196F3;
+}
+
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+}
